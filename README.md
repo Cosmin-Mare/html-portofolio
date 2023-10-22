@@ -1,2 +1,2 @@
 # html-portofolio
-This is a portofolio showcasing what I have programmed using htlp
+This is a portofolio showcasing what I have programmed using html
